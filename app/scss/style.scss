@@ -374,7 +374,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 80px 0;
+    padding-bottom: 80px;
 
     &:hover .feedback__message {
       color: #fff;
@@ -383,6 +383,7 @@
 
   &__item {
     text-align: center;
+    padding-top: 80px;
   }
 
   &__img {
