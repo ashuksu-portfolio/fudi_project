@@ -375,6 +375,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 80px;
+    background-attachment: fixed;
 
     &:hover .feedback__message {
       color: #fff;
